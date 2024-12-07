@@ -1,2 +1,2 @@
-# my-first-project
+VitaMend+
 This is my first project on GitHub."
